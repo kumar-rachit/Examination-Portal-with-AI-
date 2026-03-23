@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/ae3e6a91-943d-4486-a0a8-3640548baaff
+View your app in AI Studio: [https://ai.studio/apps/ae3e6a91-943d-4486-a0a8-3640548baaff](https://vercel.com/kumar-rachits-projects/examination-portal-with-ai/2ru7ysgThgjDCYTX5BfonjnokhGo)
 
 ## Run Locally
 
